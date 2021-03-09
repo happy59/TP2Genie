@@ -1,2 +1,4 @@
 BUTEZ Enzo
 BOURGEAIS Thibaut
+
+Si on ne trouve pas ce fichier dans le master, c'est parce qu'il na pas été ajouté à master mais bien à la branche "mon_fichier". Nous n'avons pas merge dans le master.
